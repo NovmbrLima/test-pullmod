@@ -1,5 +1,2 @@
 # test-pullmod
-test pullmod for gorilla tag
-
-
-pullmod does NOT work
+test pullmod for gorilla tag that doesn't work
